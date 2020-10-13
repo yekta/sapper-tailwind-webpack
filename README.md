@@ -1,23 +1,14 @@
-# sapper-template
-
-The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
-
+# Sapper Tailwind template using Webpack
 
 ## Getting started
 
 
 ### Using `degit`
 
-To create a new Sapper project based on Rollup locally, run
+To create a new project locally, run
 
 ```bash
-npx degit "sveltejs/sapper-template#rollup" my-app
-```
-
-For a webpack-based project, instead run
-
-```bash
-npx degit "sveltejs/sapper-template#webpack" my-app
+npx degit "yekta/sapper-tailwind-webpack" my-app
 ```
 
 [`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository.
