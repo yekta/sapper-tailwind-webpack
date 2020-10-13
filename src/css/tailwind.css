@@ -1,6 +1,6 @@
 @tailwind base;
 @tailwind components;
 
-/* Your custom CSS goes here, output css file is at /public/global.css */
+/* Your custom CSS goes here, output css file is at /static/global.css */
 
 @tailwind utilities;
